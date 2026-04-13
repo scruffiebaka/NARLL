@@ -9,7 +9,7 @@
     "miles"
   ],
   "verifier": "mono",
-  "verification": "https://www.youtube.com/watch?v=JLUHNV2zcV4",
+  "verification": "https://youtu.be/900i4upmvN0",
   "records": [
     {
       "user": "mold",
@@ -25,6 +25,12 @@
     },
     {
       "user": "xeo_o",
+      "link": "",
+      "percent": 100,
+      "hz": 0
+    },
+    {
+      "user": "amylova",
       "link": "",
       "percent": 100,
       "hz": 0
