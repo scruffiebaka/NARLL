@@ -1,14 +1,14 @@
 {
-  "id": 134675614,
-  "length": "NA",
-  "name": "ohk",
-  "author": "sznapis",
-  "tags": "NA",
-  "notes": "",
+  "id": 133239074,
+  "length": "0:08",
+  "name": "geeked out (lock in mode: ON)",
+  "author": "aqrlr",
+  "tags": "Memory",
+  "notes": "hi druki",
   "creators": [
-    "sznapis"
+    "aqrlr"
   ],
-  "verifier": "sznapis",
+  "verifier": "aqrlr",
   "verification": "https://www.youtube.com/watch?v=JLUHNV2zcV4",
   "records": [
     {
@@ -18,7 +18,7 @@
       "hz": 0
     },
     {
-      "user": "vex",
+      "user": "detempt",
       "link": "",
       "percent": 100,
       "hz": 0

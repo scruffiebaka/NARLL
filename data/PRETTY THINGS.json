@@ -1,28 +1,16 @@
 {
-  "id": 135607560,
-  "length": "0:29",
-  "name": "collapse preview 1",
-  "author": "itsGalaxie",
-  "tags": "Spam, Unbalanced",
+  "id": 137974837,
+  "length": "0:15",
+  "name": "PRETTY THINGS",
+  "author": "DeadXM",
+  "tags": "Timings, Ball",
   "notes": "",
   "creators": [
-    "itsGalaxie"
+    "DeadXM"
   ],
-  "verifier": "detempt",
-  "verification": "https://youtu.be/WdziLJ0f1wg",
+  "verifier": "DeadXM",
+  "verification": "https://youtu.be/wcYGtoQgJ24?si=Exa_7lLZkgz3GWgK",
   "records": [
-    {
-      "user": "mold",
-      "link": "",
-      "percent": 100,
-      "hz": 0
-    },
-    {
-      "user": "amylova",
-      "link": "",
-      "percent": 100,
-      "hz": 0
-    },
     {
       "user": "xeo_o",
       "link": "",
@@ -30,13 +18,25 @@
       "hz": 0
     },
     {
-      "user": "humptwe",
+      "user": "blue_orbe",
       "link": "",
       "percent": 100,
       "hz": 0
     },
     {
-      "user": "juyeko",
+      "user": "vex",
+      "link": "",
+      "percent": 100,
+      "hz": 0
+    },
+    {
+      "user": "tabbykitty",
+      "link": "",
+      "percent": 100,
+      "hz": 0
+    },
+    {
+      "user": "mold",
       "link": "",
       "percent": 100,
       "hz": 0
