@@ -3,7 +3,7 @@
   "length": "0:17",
   "name": "Deception",
   "author": "Rosieel",
-  "tags": "Bad Transitions, All-around",
+  "tags": "All-around",
   "notes": "",
   "creators": [
     "Rosieel"
@@ -49,6 +49,12 @@
     },
     {
       "user": "amy",
+      "link": "",
+      "percent": 100,
+      "hz": 0
+    },
+    {
+      "user": "xeo_o",
       "link": "",
       "percent": 100,
       "hz": 0
